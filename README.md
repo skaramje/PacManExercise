@@ -5,6 +5,7 @@ Installation: Save the html and the image files in one folder.  Drag and drop th
 
 Usage: Click on the pacman image on the chrome browser to get it to move
 [Click here](https://htmlpreview.github.io/?https://github.com/skaramje/PacManExercise/blob/main/index.html)
+[Click here](https://raw.githack.com/skaramje/PacManExercise/main/index.html)
 
 Support: For any questions, drop an email to me on skaramje@gmail.com  
 
